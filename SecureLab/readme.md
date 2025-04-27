@@ -7,7 +7,7 @@
 
 This lab covers **Active Directory**, **Windows & Linux Clients**, **Security Monitoring Servers** with **Wazuh**, **Sysmon**, and **Real Attack Simulations** — from initial setup to active threat detection and analysis!
 
----
+
 
 ## 🛠️ Project Goals
 
@@ -17,7 +17,7 @@ This lab covers **Active Directory**, **Windows & Linux Clients**, **Security Mo
 - Analyze incidents like a SOC Analyst or Threat Hunter.
 - Sharpen blue-team and red-team skills.
 
----
+
 
 ## 🔥 What's Inside?
 
@@ -29,7 +29,7 @@ This lab covers **Active Directory**, **Windows & Linux Clients**, **Security Mo
 | **4. Attack Simulations** | Simulated real-world attacks (malware, persistence, privilege escalation). |
 | **5. Detection and Response** | Tuned Wazuh rules, analyzed Sysmon logs, documented detection workflows. |
 
----
+
 
 ## ⚙️ Technologies Used
 
@@ -55,7 +55,7 @@ This lab covers **Active Directory**, **Windows & Linux Clients**, **Security Mo
 
 > Detailed detection logs and analysis screenshots available in the documentation!
 
----
+
 
 ## 📚 Resources
 
@@ -64,13 +64,13 @@ This lab covers **Active Directory**, **Windows & Linux Clients**, **Security Mo
 - [Wazuh Installation Docs](https://documentation.wazuh.com/current/installation-guide/index.html)
 - [Sysmon Official Guide](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
 
----
+
 
 ## ✨ Inspiration
 
 This project was inspired by real-world incident response workflows, SOC analyst practices, and the continuous need to think like both **attacker** and **defender**.
 
----
+
 
 ## 🚧 Future Work
 
@@ -80,35 +80,35 @@ This project was inspired by real-world incident response workflows, SOC analyst
 - Simulate ransomware and DCSync attacks.
 - Build an Automated Incident Response playbook.
 
----
+
 
 ## 📥 Download Full Report
 
 > 📄 [**Download the full PDF Documentation here**](docs/full_report.pdf)
 
 
----
+
 
 ## 🧑‍💻 About Me
 
 I’m a cybersecurity enthusiast passionate about blue teaming, SOC operations, and learning by building and breaking things!  
 Always exploring the next frontier of security engineering.
 
-**🔗 Let's Connect on LinkedIn** → [Your LinkedIn Profile]
+**🔗 Let's Connect on LinkedIn** → [https://www.linkedin.com/in/cyberamanx]
 
----
+
 
 ## 🌟 If you liked this project, please ⭐ star it on GitHub!  
 ## 📢 Contributions, suggestions, or collaborations are welcome!
 
----
 
-# Footer:
+
+## Footer:
 
 > **Disclaimer:** This project is strictly for educational purposes.  
 > **Please do not use any knowledge gained here for illegal activities.**
 
----
+
 
 # 🚀 Let's Hunt Threats Like Pros!
 
