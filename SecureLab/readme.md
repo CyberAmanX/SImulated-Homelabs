@@ -1,6 +1,6 @@
 ## 🚀 SecureLab: Building a Detection-Focused Security Homelab
 
-(Screenshots/homelab.png)  
+![Alt text](/Screenshots/homelab.png)  
 
 
 ### Welcome to my personal cybersecurity project where I built a real-world, attack-and-detect focused Security Homelab from scratch!
