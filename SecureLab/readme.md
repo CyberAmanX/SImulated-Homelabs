@@ -1,9 +1,7 @@
-# 🚀 SecureLab: Building a Detection-Focused Security Homelab
+## 🚀 SecureLab: Building a Detection-Focused Security Homelab
 
 ![SecureLab Banner](screenshots/homelab.png)  
-(*[Insert your own banner image if you want!]*)
 
----
 
 ### Welcome to my personal cybersecurity project where I built a real-world, attack-and-detect focused Security Homelab from scratch!
 
@@ -11,7 +9,7 @@ This lab covers **Active Directory**, **Windows & Linux Clients**, **Security Mo
 
 ---
 
-# 🛠️ Project Goals
+## 🛠️ Project Goals
 
 - Build a mini enterprise-like environment in a home network.
 - Simulate real-world attacks and persistence techniques.
@@ -21,7 +19,7 @@ This lab covers **Active Directory**, **Windows & Linux Clients**, **Security Mo
 
 ---
 
-# 🔥 What's Inside?
+## 🔥 What's Inside?
 
 | Phase | Description |
 |:---|:---|
@@ -33,7 +31,7 @@ This lab covers **Active Directory**, **Windows & Linux Clients**, **Security Mo
 
 ---
 
-# ⚙️ Technologies Used
+## ⚙️ Technologies Used
 
 - **VMWare** & **VirtualBox** for virtualization
 - **Windows Server 2022** and **Windows 11**
@@ -46,7 +44,7 @@ This lab covers **Active Directory**, **Windows & Linux Clients**, **Security Mo
 - **Attack simulation tools** and custom payloads
 
 
-# 🧠 Attack Simulations & Detection Highlights
+## 🧠 Attack Simulations & Detection Highlights
 
 | Attack | Method | Detection |
 |:---|:---|:---|
@@ -59,7 +57,7 @@ This lab covers **Active Directory**, **Windows & Linux Clients**, **Security Mo
 
 ---
 
-# 📚 Resources
+## 📚 Resources
 
 - [Download ISO Files](https://ln5.sync.com/dl/831828380#cbtjtrs7-yhmjd4ad-yaxm6hka-x97b3ug7)
 - [Grant Collins Security Lab Guide](https://projectsecurity.teachable.com/courses/2721940/lectures/59518536)
@@ -68,13 +66,13 @@ This lab covers **Active Directory**, **Windows & Linux Clients**, **Security Mo
 
 ---
 
-# ✨ Inspiration
+## ✨ Inspiration
 
 This project was inspired by real-world incident response workflows, SOC analyst practices, and the continuous need to think like both **attacker** and **defender**.
 
 ---
 
-# 🚧 Future Work
+## 🚧 Future Work
 
 - Add Email Server to simulate phishing detection.
 - Deploy Honeypots (Canary tokens) inside the network.
@@ -84,15 +82,14 @@ This project was inspired by real-world incident response workflows, SOC analyst
 
 ---
 
-# 📥 Download Full Report
+## 📥 Download Full Report
 
 > 📄 [**Download the full PDF Documentation here**](docs/full_report.pdf)
 
-(*Optional, if you generate PDF report!*)
 
 ---
 
-# 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 I’m a cybersecurity enthusiast passionate about blue teaming, SOC operations, and learning by building and breaking things!  
 Always exploring the next frontier of security engineering.
@@ -101,8 +98,8 @@ Always exploring the next frontier of security engineering.
 
 ---
 
-# 🌟 If you liked this project, please ⭐ star it on GitHub!  
-# 📢 Contributions, suggestions, or collaborations are welcome!
+## 🌟 If you liked this project, please ⭐ star it on GitHub!  
+## 📢 Contributions, suggestions, or collaborations are welcome!
 
 ---
 
